@@ -43,7 +43,7 @@ print dis.dis(task_uncompyle)
 ```
 
 we get output:
-`
+```
 Disassembly of code:
   3           0 LOAD_CONST               1 ('')
               3 LOAD_ATTR                0 (join)
@@ -136,7 +136,7 @@ Disassembly of code:
             238 RETURN_VALUE        
 
 
-`
+```
 
 there are something interesting at line 49 to 70:
 `synt:{wqE6fXuofa4XNu1}`
