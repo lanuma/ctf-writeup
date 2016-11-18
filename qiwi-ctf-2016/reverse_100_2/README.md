@@ -1,4 +1,4 @@
-##Reverse_100_2
+Reverse_100_2
 ========
 
 > Angga Lanuma | 19 November 2016
